@@ -144,3 +144,13 @@ nav-cart {
 .hero-msg a {
     color: #007185;
 }
+
+/** shop section**/
+.shop-section {
+    display: flex;
+}
+.box {
+    border: 2px solid black;
+    height: 100px;
+    width: 25%;
+}
