@@ -97,3 +97,24 @@ nav-cart {
     font-size: 0.85rem;
     font-weight: 700;
 }
+/**panel**/
+.panel {
+    height:40px;
+    color: white;
+    display: flex;
+    background-color: #222f3d;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.panel-ops p {
+    display: inline;
+    margin-left: 15px;
+}
+.panel-ops {
+    width:70%;
+    font-size: 0.85rem;
+}
+.panel-details {
+    font-size: 0.95rem;
+    font-weight: 700;
+}
